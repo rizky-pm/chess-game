@@ -13,23 +13,24 @@ A chess game built with **TypeScript** and **Node.js**.
 
 ## Setup
 
-# Clone the repository
+### Clone the repository
 
-git clone the repository
+git clone [the repository](https://github.com/rizky-pm/chess-game.git)
+
 cd chess-game
 
-# Install dependencies
+### Install dependencies
 
 npm install
 
-# Build the project
+### Build the project
 
 npm run build
 
-# Start the app
+### Start the app
 
 npm start
 
-# Optional, run test using Jest
+### Optional, run test using Jest
 
 npm test
