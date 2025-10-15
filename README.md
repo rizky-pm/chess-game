@@ -15,7 +15,7 @@ A chess game built with **TypeScript** and **Node.js**.
 
 ### Clone the repository
 
-git clone [the repository](https://github.com/rizky-pm/chess-game.git)
+git clone [https://github.com/rizky-pm/chess-game.git](https://github.com/rizky-pm/chess-game.git)
 
 cd chess-game
 
